@@ -26,3 +26,5 @@ advent2024-*.tar
 /tmp/
 
 /.elixir_ls/
+
+.tool-versions
